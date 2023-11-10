@@ -1,0 +1,46 @@
+{
+  "Dark": {
+    "id": 1,
+    "name": "Dark",
+    "colors": {
+      "body": "#14181d",
+      "body2": "#1d232a",
+      "body3": "#181d24",
+      "text": "#7d838f",
+      "invert": "#3C40C6"
+    }
+  },
+  "Light": {
+    "id": "2",
+    "name": "Light",
+    "colors": {
+      "body": "#e7e2df",
+      "body2": "#f9f7f5",
+      "body3": "#e0dcd9",
+      "text": "#7e6e81",
+      "invert": "#528754"
+    }
+  },
+  "Blue": {
+    "id": "2",
+    "name": "Blue",
+    "colors": {
+      "body": "#001B79",
+      "body2": "#1640D6",
+      "body3": "#001C80",
+      "text": "#d6ac16",
+      "invert": "#ED5AB3"
+    }
+  },
+  "Chocolate": {
+    "id": "2",
+    "name": "Chocolate",
+    "colors": {
+      "body": "#270215",
+      "body2": "#753522",
+      "body3": "#321215",
+      "text": "#f7f1cf",
+      "invert": "#cfa83c"
+    }
+  }
+}
