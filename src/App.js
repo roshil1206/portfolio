@@ -24,7 +24,7 @@ function App() {
       <ThemeProvider theme={theme}>
         <GlobalStyles />
         <div className="p-4 lg:p-10 min-h-full bg-base-300">
-          <div className="grid grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
             <div className="col">
               <div className="grid gap-4">
                 <div className="col">

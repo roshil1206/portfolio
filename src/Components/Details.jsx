@@ -15,7 +15,7 @@ const details = [
     Icon: FaLinkedinIn,
     label: "Linkedin:",
     value: "roshilkapatel",
-    link: "www.linkedin.com/in/roshilkapatel/",
+    link: "https://www.linkedin.com/in/roshilkapatel/",
   },
   {
     Icon: MdEmail,

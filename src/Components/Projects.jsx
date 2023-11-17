@@ -49,7 +49,7 @@ const Projects = () => {
       <h5 className="mb-2 text-xl font-bold tracking-tight text-heading">
         Projects
       </h5>
-      <div className="grid gap-4 grid-cols-2">
+      <div className="grid gap-4 grid-cols-1 md:grid-cols-2">
         {data.map((item, key) => (
           <ProjectInfo {...item} key={key}></ProjectInfo>
         ))}

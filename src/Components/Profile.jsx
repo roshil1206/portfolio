@@ -22,7 +22,7 @@ function Profile() {
           Software Engineer | Cloud Enthusiast | Node.js | React
         </p>
         <a
-          href="/Resume.pdf"
+          href="/portfolio/Resume.pdf"
           target="_blank"
           className="btn btn-outline btn-sm text-xs mt-6 opacity-50"
         >
