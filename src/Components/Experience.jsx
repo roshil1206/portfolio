@@ -3,7 +3,7 @@ import Card from "./Card/Card";
 
 const data = [
   {
-    position: "MERN Stack Developer",
+    position: "Software Engineer",
     company: "Xcitech Technologies",
     date: "2023-2022",
   },
